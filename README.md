@@ -1,10 +1,6 @@
 # 🐶 PetShop Landing Page
 
-![Preview do Projeto](./public/readme/preview-1.png)
-
 Projeto desenvolvido com foco em estudos de Front-End utilizando Next.js, TypeScript e TailwindCSS.
-
----
 
 ## 🚀 Tecnologias utilizadas
 
@@ -14,20 +10,15 @@ Projeto desenvolvido com foco em estudos de Front-End utilizando Next.js, TypeSc
 - TailwindCSS
 - ShadCN UI
 
----
+## 📚 Objetivo do projeto
 
-## 📷 Preview do Projeto
+Este projeto foi desenvolvido como forma de prática e aprimoramento das seguintes habilidades:
 
-### Página Inicial
-![Home](./public/readme/preview-1.png)
-
-### Seção de Serviços
-![Serviços](./public/readme/preview-2.png)
-
-### Rodapé
-![Footer](./public/readme/preview-3.png)
-
----
+- Estruturação de projetos com Next.js (App Router)
+- Componentização
+- Organização de layout
+- Estilização com TailwindCSS
+- Boas práticas de Front-End
 
 ## 💻 Como rodar o projeto
 
@@ -36,25 +27,20 @@ npm install
 npm run dev
 ```
 
-Acesse:
+Depois acesse:
+
+```
 http://localhost:3000
+```
 
----
+## 📷 Preview
 
-## 📚 Objetivo do Projeto
-
-- Praticar componentização
-- Estruturação com App Router
-- Estilização com TailwindCSS
-- Responsividade
-- Organização de layout
-
----
+*(adicione aqui um print da aplicação depois)*
 
 ## 📌 Status
 
 ✔ Projeto funcional  
-📚 Em constante evolução  
+📚 Em constante evolução para fins de estudo  
 
 ---
 
