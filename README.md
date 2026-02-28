@@ -33,9 +33,6 @@ Depois acesse:
 http://localhost:3000
 ```
 
-## 📷 Preview
-
-*(adicione aqui um print da aplicação depois)*
 
 ## 📌 Status
 
